@@ -1,6 +1,6 @@
 {
   "name": "critter-kit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Building blocks for animated animals on the web: measured gaits, planted feet, limb chains, a spine swimmer and a scene controller. No dependencies.",
   "keywords": [
     "animation",
