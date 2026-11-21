@@ -19,7 +19,7 @@
     }
   },
   "dependencies": {
-    "critter-kit": "0.1.0"
+    "critter-kit": "0.1.1"
   },
   "files": [
     "dist",
